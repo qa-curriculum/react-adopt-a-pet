@@ -1,0 +1,23 @@
+{
+  "name": "react-adopt-a-pet",
+  "version": "1.0.0",
+  "description": "Repository to upload your react app when finished with week 9.",
+  "main": "index.js",
+  "scripts": {
+    "format": "prettier \"src/**/*.{js,html}\" --write"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qa-curriculum/react-adopt-a-pet.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qa-curriculum/react-adopt-a-pet/issues"
+  },
+  "homepage": "https://github.com/qa-curriculum/react-adopt-a-pet#readme",
+  "devDependencies": {
+    "prettier": "^2.0.2"
+  }
+}
